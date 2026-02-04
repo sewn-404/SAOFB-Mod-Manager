@@ -43,8 +43,3 @@ All 4 major DLCs installed.
 Developed by: Sewn404
 
 Framework: Built with Python & CustomTkinter.
-
-Source Code: Fully transparent file handling (see main.py).
-
-What should I do if the manager doesn't find my game?
-If your game is installed on a non-standard drive, simply go to Settings within the app and manually paste the path to your SWORD ART ONLINE FATAL BULLET folder!
