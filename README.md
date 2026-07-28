@@ -35,3 +35,5 @@ This tool helps you easily enable or disable .pak mods for Sword Art Online: Fat
 ---
 
 If you have issues or suggestions, please contact me at Discord or join the cumunity https://discord.gg/XpGgDtEYYE
+
+![App Screenshot](./SAOFB_Mod_ManagerV1.5/Screenshot 2026-02-04 233444.png)
